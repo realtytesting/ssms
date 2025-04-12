@@ -1,9 +1,0 @@
-services:
-  - type: web
-    name: sql-api-bridge
-    env: php
-    plan: free
-    buildCommand: ""
-    startCommand: ""
-    rootDir: .
-    envVars: []
